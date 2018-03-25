@@ -1,0 +1,22 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~uart.PrjPcb|ReportField=ProjectFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\uart.PrjPcb|ReportField=Title~Bill of Materials For Project [uart.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~105|ReportField=ReportTime~21:24:45|ReportField=ReportDate~2013-11-14|ReportField=ReportDateTime~2013-11-14 21:24:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2013-11-14|ReportField=CurrentTime~21:24:09|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Work\lyd\gl-696h\hardware\Ver0.40\uart.SchDoc|ReportField=DocumentName~uart.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2013-11-10|ReportField=Organization~|ReportField=ProjectName~uart.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~uart.PrjPcb|ReportField=DataSourceFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\uart.PrjPcb
+100nF|Capacitor|C301, C302, C303, C304, C306, C307, C309, C310, C311, C312, C313, C314, C315, C316, C318, C319, C320, C321, C322, C323, C327|C0805|Cap|21
+100uF/16V|Electrolytic Capacitor|C305|CD1/2|CD1|1
+47uF/16V|Electrolytic Capacitor|C308, C317, C326|CD1/2|CD1|3
+SMA6J18CA|1V5KE6V8CA|D301, D302, D303, D304, D305, D306, D307|SMA|Bidirectional DIODE TVS|7
+BAV99|Silicon Switching Diode Array for High-Speed Switching|D308, D309|SOT-23|BAV99|2
+BLM21AG601SN1||L301, L302, L303, L304, L305, L306, L307, L308, L309, L310|L0805|L1|10
+COM1|Header, 4-Pin|P301|TJC3-4A|Header 4|1
+COM1|Header, 3-Pin|P302, P303|TJC3-3A|Header 3|2
+Header 9|Header, 9-Pin|P304, P305, P306, P307|LK|Header 9|4
+Header 5X2|Header, 5-Pin, Dual row|P308|IDC10-EJ|Header 5X2|1
+MMBT3906|PNP Transistor|Q301, Q302, Q303, Q304, Q305, Q306|SOT-23|PNP_SOT23|6
+100|Resistor|R1, R325, R326, R327, R328, R329, R330|R0805|Res1|7
+3.3K|Resistor|R301, R304, R305, R308, R309, R312, R313, R316, R317, R320, R321, R324, R333|R0805|Res1|13
+10K|Resistor|R302, R310, R318, R331|R0805|Res1|4
+330|Resistor|R303, R306, R311, R314, R319, R322|R0805|Res1|6
+33|Resistor|R307, R315, R323|R0805|Res1|3
+5.1K|Resistor|R332|R0805|Res1|1
+6N137||U301, U304, U305, U308, U309, U312|DIP8|6N136|6
+MAX232ACPE|+5V Powered, Multi-Channel RS-232 Driver/Receiver|U302, U306, U310|PE16A|MAX232ACPE|3
+MORNSUN-BLS|MORNSUN Fixed input,Isolated,Unregulated Series DC/DC|U303, U307, U311|MORNSUN-BLS|MORNSUN-BLS|3
+TLP521||U313|DIP4|TLP521|1

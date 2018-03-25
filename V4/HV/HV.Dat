@@ -1,0 +1,30 @@
+Field=Comment~String~Comment~154|Field=Description~String~Description~119|Field=Designator~String~Designator~146|Field=Footprint~String~Footprint~110|Field=LibRef~String~LibRef~110|Field=Quantity~Integer~Quantity~111|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~HV.PrjPcb|ReportField=ProjectFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\HV.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [HV.PcbDoc]|ReportField=TotalQuantity~98|ReportField=ReportTime~20:43:04|ReportField=ReportDate~2013-11-14|ReportField=ReportDateTime~2013-11-14 20:43:04|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~HV.PcbDoc|ReportField=DataSourceFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\HV.PcbDoc
+1nF||C201, C205, C212, C213, C216, C217|C0805||6
+Cap Pol2|Polarized|C202|CD1/2|Cap Pol2|1
+100nF||C203, C204, C206, C207, C208, C209, C210, C214, C215, C218, C219, C220, C221, C224, C225|C0805||15
+100uF/50V|Electrolytic Capacitor|C222|CD2/4|CD1|1
+100uF/16V|Elec|C223|CD1/2|CD1|1
+SMA6J18CA||D201, D202, D203, D204|SMA||4
+BZX84C12LT1|Zener Voltage Regulator Diode|D205|318-07|BZX84C12LT1|1
+SMA6J36CA||D206|SMA||1
+BAV99|Silicon Switching Diode Array for High-Speed Switching|D207, D208|SOT-23|BAV99|2
+1N4148|1N4148|D209|D1206|2JG|1
+FRK300-60F|Fuse|F201|RAD-0.2|FUSE1|1
+BLM21PG331SN1||L201, L204|L0805|L1|2
+BLM21AG601SN1||L202, L203, L205|L0805|L1|3
+Header 10X2|Header, 10-Pi|P201|IDC20-EJ|Header 10X2|1
+Header 7|Hea|P202|3.96-7|Header 7|1
+24V_M|Hea|P203|3.96-2|Header 2|1
+Header 9|Hea|P204, P205, P206, P207|LK|Header 9|4
+MMBT3906|PNP Switching Transistor|Q201, Q202, Q203|SOT23_N|MMBT3906|3
+IRF9540S|HEXFET P-Channel Power MOSFET|Q204|D2PAK_N|IRF9540S|1
+100||R201, R206, R208, R212, R214, R219|R0805||6
+51K||R202, R209, R218|R0805||3
+10K||R203, R207, R211, R213, R221, R222|R0805||6
+100K||R204, R205, R210, R215, R216, R217, R220|R0805||7
+330||R223|R0805||1
+0||RA201, RA202, RA203, RA204, RB201, RB202, RB203, RB204, RC201, RC202, RC203, RC204, RD201, RD202, RD203, RD204|R0805||16
+HCNR201||U201, U204, U205|DIP-8-1||3
+LM2904D|Dual Low-Power Operational Amplifier|U202, U203, U206, U207|751-02_N|LM2904D|4
+TLP521||U208|DIP4||1
+MORNSUN-BLS0505||U209|MORNSUN-BLS|MORNSUN-BLS|1

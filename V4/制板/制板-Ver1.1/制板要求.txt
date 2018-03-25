@@ -1,0 +1,8 @@
+文件格式:Altium designer 10
+文件名:MB.PcbDoc 	数量：5块
+文件名:relay.PcbDoc 	数量：5块
+文件名:uart.PcbDoc 	数量：5块
+文件名:HV.PcbDoc 	数量：20块
+定做要求：双面板,板厚1.5mm,铅锡合金,铜箔50mil。
+
+联系人:张占春 13810789288

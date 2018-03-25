@@ -1,0 +1,58 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32.PrjPcb|ReportField=ProjectFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\STM32.PrjPcb|ReportField=Title~Bill of Materials For Project [STM32.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~146|ReportField=ReportTime~20:51:20|ReportField=ReportDate~2013-11-14|ReportField=ReportDateTime~2013-11-14 20:51:20|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2013-11-14|ReportField=CurrentTime~20:51:08|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Work\lyd\gl-696h\hardware\Ver0.40\EtherNet.SchDoc|ReportField=DocumentName~EtherNet.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2013-10-10|ReportField=Organization~|ReportField=ProjectName~STM32.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.04|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A3|PrintScaleMode=1|ReportField=DataSourceFileName~STM32.PrjPcb|ReportField=DataSourceFullPath~E:\Work\lyd\gl-696h\hardware\Ver0.40\STM32.PrjPcb
+3V||BAT1|battery|BATTERY|1
+100nF|Capacitor|C1, C2, C4, C7, C8, C10, C13, C17, C18, C19, C20, C21, C23, C24, C29, C32, C34, C35, C36, C37, C38, C43, C45, C47, C49, C50|C0805|CAP, CC|26
+10pF|Capacitor|C3, C27|C0805|CAP|2
+470uF/16V|Polarized Capacitor (Radial)|C5|CD2/3|Cap Pol1|1
+22pF|Capacitor|C9, C14, C26, C28, C30, C31, C39|C0805|CAP|7
+10nF|Capacitor|C11, C41|C0805|CAP|2
+1nF|Capacitor|C12|C0805|Cap|1
+10uF|Capacitor|C15, C16, C22, C40, C46, C48|C1206|CAP|6
+47uF/16V|Electrolytic Capacitor, Polarized Capacitor (Radial)|C25, C44|CD1/2|Cap Pol1, CD1|2
+47uF/50V|Electrolytic Capacitor|C42|CD1/2|CD1|1
+1N5822|Diode|D1|V5|2JG|1
+LED||D2|LED0805|LED|1
+POWER|Typical INFRARED GaAs LED|D3|LED0805|LED0|1
+LL4148|Default Diode|D4, D5|D1206|Diode|2
+WORK|Typical INFRARED GaAs LED|D6|LED0805|LED0|1
+1N4007|1 Amp General Purpose Rectifier|D7|DO-41|Diode 1N4007|1
+USB-B||J4|USB-B|USB-B|1
+SIM||J24|IC-CARD2|CON8|1
+||JP1|SIP2|JP2|1
+BLM21PG331SN1||L1, L4, L7, L9, L10, L11, L12|L0805|L1|7
+BLM31PG601SN1||L2, L3, L6, L8|l1206|INDUCTOR2, L1|4
+HV_CTRL|Header, 10-Pin, Dual row|P1|IDC20-EJ|Header 10X2|1
+Header 6|Header, 6-Pin|P2|TJC3-6A|Header 6|1
+LCD NH056DN03|Header, 15-Pin, Dual row|P3|HDR2X15|Header 15X2|1
+Touch Screen|Header, 4-Pin|P5|TJC3-4A|Header 4|1
+24V|Header, 2-Pin|P6|3.96-2|Header 2|1
+USART|Header, 5-Pin, Dual row|P7|IDC10-EJ|Header 5X2|1
+Header 9|Header, 9-Pin|P8, P9, P10, P11|lk|Header 9|4
+RELAY|Header, 10-Pin, Dual row|P18|IDC20-EJ|Header 10X2|1
+MMBT3904|NPN Switching Transistor|Q1, Q2, Q3|SOT23_N|MMBT3904|3
+0R|Resistor|R1, R3, R5|R0805|Res1|3
+1K|Resistor|R2, R10, R20, R22, R44|R0805|res1|5
+NI|Resistor|R6, R8|R0805|res1|2
+1.5K|Resistor|R7|R0805|Res1|1
+100K|Resistor|R9, R21, R40, R41|R0805|res1|4
+10K|Resistor|R11, R23, R27, R58, R64, R68|R0805|Res1, Res2|6
+36K|Resistor|R12, R13|R0805|Res1|2
+49.9/1%|Resistor|R14, R15, R62, R63|R0805|Res1|4
+2K/1%|Resistor|R16|R0805|Res1|1
+390|Resistor|R17, R18, R29|R0805|Res1|3
+5.1K|Resistor|R19, R25, R26, R28, R34, R36, R37, R38, R59, R60, R61, R65, R66, R67|R0805|Res1|14
+100|Resistor|R24|R0805|Res1|1
+3.3K|Resistor|R57|R0805|Res2|1
+MMBT3904||T1, T2|SOT-23|NPN_SOT23|2
+MORNSUN PWB2405YMD-6W||U1|DC/DC-1X1|48S5|1
+USBLC6-2SC6||U2|SOT-23/6|USBLC6-2|1
+MC37I||U3|MC37I|MC37I|1
+ENC28J60-I/SO|Stand-Alone Ethernet Controller with SPI Interface, 28-Pin SOIC|U4|SOIC-SO28_L|ENC28J60/SO|1
+ADS7843E|4-Wire Touch Screen Controller, 16-Pin SSOP, Pb-Free|U5|DBQ016|ADS7843E|1
+STM32F103VBT6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 100-pin LQFP, Industrial Temperature|U7|LQFP100_N|STM32F103VBT6|1
+LM4040BIM3-2.5/SOT23||U8|sot-23|LM4040/SOT23|1
+M25P40VMN6T||U9|SO8|SPI_FLASH|1
+LM1117MPX-3.3|3-Terminal Adjustable Positive Voltage Regulator|U10|SOT-223|LM1117|1
+HR911105A|RJ45 Connector with Integrated Magnetics|U14|HANRUN-A8|HR911105A|1
+32.768KHz|Crystal Oscillator|Y1|DSO-N4|ECS-35-17-7S|1
+25MHz|Crystal|Y2|CRYSTAL2|CRYSTAL|1
+8MHz|Crystal|Y4|CRYSTAL2|CRYSTAL|1
