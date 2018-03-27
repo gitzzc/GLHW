@@ -10,3 +10,5 @@ ProjectPath=RELAY\relay.PrjPcb
 ProjectPath=UART\uart.PrjPcb
 [Project5]
 ProjectPath=Valve\Valve.PrjPcb
+[Project6]
+ProjectPath=..\..\..\..\..\MY-LIB\MY-LIB\MY-LIB.LibPkg
