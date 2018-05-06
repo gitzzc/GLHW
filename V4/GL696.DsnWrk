@@ -12,3 +12,5 @@ ProjectPath=UART\uart.PrjPcb
 ProjectPath=Valve\Valve.PrjPcb
 [Project6]
 ProjectPath=..\..\..\..\..\MY-LIB\MY-LIB\MY-LIB.LibPkg
+[Project7]
+ProjectPath=..\..\..\..\MPG400\Hardware\MPG400.PrjPcb
