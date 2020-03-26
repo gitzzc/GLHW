@@ -1,4 +1,3 @@
-Record=TopLevelDocument|FileName=AL1000.SchDoc
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=1|SchDesignator=1|FileName=HV.SchDoc|SymbolType=Normal|RawFileName=HV.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=2|SchDesignator=2|FileName=HV.SchDoc|SymbolType=Normal|RawFileName=HV.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=3|SchDesignator=3|FileName=HV.SchDoc|SymbolType=Normal|RawFileName=HV.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -7,3 +6,4 @@ Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=Power|SchDesignator=P
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=Relay|SchDesignator=Relay|FileName=relay.SchDoc|SymbolType=Normal|RawFileName=relay.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=STM32|SchDesignator=STM32|FileName=stm32.SchDoc|SymbolType=Normal|RawFileName=stm32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AL1000.SchDoc|Designator=UART|SchDesignator=UART|FileName=UART.SchDoc|SymbolType=Normal|RawFileName=UART.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=AL1000.SchDoc
