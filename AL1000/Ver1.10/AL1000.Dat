@@ -1,0 +1,80 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~155|Field=Description~String~Description~161|Field=Designator~String~Designator~119|Field=Footprint~String~Footprint~106|Field=LibRef~String~LibRef~256|Field=Quantity~Integer~Quantity~36|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AL1000.PrjPcb|ReportField=ProjectFullPath~M:\lyd\GL696\GIT\GLHW\AL1000\Ver1.00\AL1000.PrjPcb|ReportField=Title~Bill of Materials For Project [AL1000.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~500|ReportField=ReportTime~16:56:19|ReportField=ReportDate~2020-5-3|ReportField=ReportDateTime~2020-5-3 16:56:19|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020-5-3|ReportField=CurrentTime~16:55:49|ReportField=Date~|ReportField=DocumentFullPathAndName~M:\lyd\GL696\GIT\GLHW\AL1000\Ver1.00\AL1000.SchDoc|ReportField=DocumentName~AL1000.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020-4-20|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A1(594x841mm):PaperIndex=135|ReportField=ProjectName~AL1000.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AL1000.PrjPcb|ReportField=DataSourceFullPath~M:\lyd\GL696\GIT\GLHW\AL1000\Ver1.00\AL1000.PrjPcb
+1|100nF|贴片电容|C1, C2, C3, C4, C5, C7, C8, C9, C14, C15, C18, C20, C22, C23, C26, C28, C31, C34, C36_1, C36_2, C36_3, C38_1, C38_2, C38_3, C39_1, C39_2, C39_3, C42_1, C42_2, C42_3, C45_1, C45_2, C45_3, C46_1, C46_2, C46_3, C47_1, C47_2, C47_3, C48_1, C48_2, C48_3, C49_1, C49_2, C49_3, C50, C51_1, C51_2, C51_3, C52_1, C52_2, C52_3, C53_1, C53_2, C53_3, C54_1, C54_2, C54_3, C55_1, C55_2, C55_3, C56_1, C56_2, C56_3, C57, C58, C59, C60, C61, C62, C63, C64, C65, C66, C67, C68, C71, C72, C73, C74, C75, C77, C78, C80, C82, C83, C84, C85, C86, C87, C88, C90, C92, C93, C94, C95, C96, C97, C99, C100, C102, C103, C104, C105, C106, C107, C108, C109, C110, C111, C116|0805_C|0805 100nF(104) 10% 50V|111
+2|10uF|贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, 贴片电容, Capacitor, Capacitor, Capacitor, 贴片电容, 贴片电容, 贴片电容, 贴片电容, Capacitor, Capacitor, Capacitor, Capacitor|C6, C12, C13, C17, C19, C21, C25, C27, C33, C37_1, C37_2, C37_3, C41_1, C41_2, C41_3, C76, C79, C89, C101, C112, C113, C114, C115|0805_C|0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 1206 10uF (106) 10% 50V, 1206 10uF (106) 10% 50V, 1206 10uF (106) 10% 50V, CC, CC, CC, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, 0805 10uF (106) 10% 25V, CC, CC, CC, CC|23
+3|100pF/2KV|Capacitor|C10, C81, C91, C98|1206_C|Cap|4
+4|220uF/63V|Electrolytic Capacitor|C11|CAP-TH_BD10.0-P5.00-D1.0-FD|CD1|1
+5|10uF/50V|贴片电容|C16, C24|1206_C|1206 10uF (106) 10% 50V|2
+6|10pF|Capacitor|C29, C30|0805_C|CAP|2
+7|10nF|多层瓷介电容, 贴片电容, 贴片电容|C32, C69, C70|0805_C|G-CC41-0805-CG-50V-300J, 0805 100nF(104) 10% 50V, 0805 100nF(104) 10% 50V|3
+8|1nF|Capacitor|C35_1, C35_2, C35_3, C40_1, C40_2, C40_3, C43_1, C43_2, C43_3, C44_1, C44_2, C44_3|0805_C|CAP|12
+9|SS54|二极管|D1|SMA(DO-214AC)_S1|SMA(DO-214AC) SS54|1
+10|1.5SMC33CA||D2|SMC(DO-214AB)_S1|TVS|1
+11|SMA6J5CA|[NoValue], 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA|D3, D22, D23, D24|SMA|TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS|4
+12|STM32F107VCT||D4|LQFP-100_14x14x05P|BARRACUDA_256K|1
+13|1N4148W|Default Diode|D5, D6, D26, D28|SOD-123|Diode|4
+14|M7|二极管|D7_1, D7_2, D7_3|SMA(DO-214AC)_S1|SMA(DO-214AC) M7|3
+15|SMAJ18A|[NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA, 1V5KE6V8CA|D8_1, D8_2, D8_3, D9_1, D9_2, D9_3, D10_1, D10_2, D10_3, D15, D16, D17, D18, D19, D20, D21|SMA|TVS, TVS, TVS, TVS, TVS, TVS, TVS, TVS, TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS, Bidirectional DIODE TVS|16
+16|红灯 0805|发光二极管|D11_1, D11_2, D11_3, D13_1, D13_2, D13_3, D25, D27|0805_LED_S1|0805 红灯|8
+17|SMF12|Zener Diode|D12_1, D12_2, D12_3, D14_1, D14_2, D14_3|SOD-123|D Zener|6
+18|GZ2012D101TF||L1, L2, L3, L4, L5_1, L5_2, L5_3, L6_1, L6_2, L6_3, L8_1, L8_2, L8_3, L9_1, L9_2, L9_3, L11, L12, L13, L14, L15, L16, L17|0805_L|L1|23
+19|NT90RN1C||LS1, LS2|NT90HCE12CE|NT90RN1C|2
+20|Header 9|Header, 9-Pin|M1, M2, M3, M4, M5, M6|LK|Header 9|6
+21|KF2EDGR-3.81-4P|Header, 4-Pin|P1|MC1.5/4-ST-3.81|Header 4|1
+22|XH-6A|Header, 6-Pin|P2|TJC3-6A|Header 6|1
+23|ESP-07S|Header, 8-Pin, Dual row|P3|ESP-07S|Header 8X2|1
+24|KF2EDGR-3.81-8P|Header, 8-Pin|P4_1, P4_2, P4_3, P8|MC1.5/8-ST-3.81|Header 8|4
+25|DB2ERC-5.08-4P|Header, 4-Pin, Right Angle|P5|MSTBV 2.5/4-G-5.08|Header 4H|1
+26|KF2EDGR-3.81-6P|Header, 6-Pin|P6, P7|MC1.5/6-ST-3.81|Header 6|2
+27|Header 15X2|Header, 15-Pin, Dual row|P10|HDR2X15|Header 15X2|1
+28|HY911105AE||P11|HANRUN-A8|J0011D21B|1
+29|XH-2A|Header, 2-Pin|P12|TJC3-2A|Header 2|1
+30|DB9/F||P13|DB9P/F|DB9|1
+31|MMBT5401 2L|三极管|Q1_1, Q1_2, Q1_3, Q2_1, Q2_2, Q2_3, Q8_1, Q8_2, Q8_3, Q9, Q11|SOT-23(SOT-23-3)|SOT-23 MMBT5401 2L|11
+32|IRLR024N|HEXFET Power MOSFET|Q4_1, Q4_2, Q4_3|TO-252AA_N|IRLR024N|3
+33|IRFR5305|HEXFET Power MOSFET|Q7_1, Q7_2, Q7_3|TO-252AA_N|IRFR5305|3
+34|2K2|Resistor|R1, R2, R17, R18, R19, R20, R21, R87|0805_R|Res1|8
+35|1K5|Resistor|R3, R4|0805_R|Res1|2
+36|49.9|Resistor|R5, R6, R7, R8|0805_R|Res1|4
+37|220|Resistor|R9, R10|0805_R|Res1|2
+38|33|Resistor|R11, R12, R13, R14, R15, R16, R22, R90, R92, R96, R97, R101, R102|0805_R|Res1|13
+39|4.87K|Resistor|R23|0805_R|Res1|1
+40|1M|Resistor|R24, R93, R98, R103|1206_R|Res1|4
+41|1K|Resistor, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, Resistor|R25, R31, R55, R56_1, R56_2, R56_3, R105|0805_R|res1, RMK2012KBxxx（10～1M）F, RMK2012KBxxx（10～1M）F, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, Res1|7
+42|100K|Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, 贴片电阻, Resistor|R26, R27, R35_1, R35_2, R35_3, R40_1, R40_2, R40_3, R46_1, R46_2, R46_3, R47_1, R47_2, R47_3, R54_1, R54_2, R54_3, R57_1, R57_2, R57_3, R58_1, R58_2, R58_3, R61_1, R61_2, R61_3, R124|0805_R|Res1, Res1, Res2, Res2, Res2, Res2, Res2, Res2, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, Res1|27
+43|10K|Resistor, Resistor, 贴片电阻, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor|R28, R30, R32, R38_1, R38_2, R38_3, R43_1, R43_2, R43_3, R45, R50, R52, R64_1, R64_2, R64_3, R65_1, R65_2, R65_3, R70, R71, R72, R73, R74, R75, R76, R77, R78, R79, R80, R81, R84, R85, R86, R107, R109, R110, R111, R112, R113, R114, R115|0805_R|Res1, res1, RMK2012KBxxx（10～1M）F, Res2, Res2, Res2, Res2, Res2, Res2, Res1, Res1, Res1, Res2, Res2, Res2, Res2, Res2, Res2, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1|41
+44|NI|贴片电阻|R29|0805_R|RMK2012KBxxx（10～1M）F|1
+45|330|Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, 贴片电阻, 贴片电阻, 贴片电阻, Resistor, Resistor, Resistor|R33_1, R33_2, R33_3, R34_1, R34_2, R34_3, R39_1, R39_2, R39_3, R44_1, R44_2, R44_3, R67_1, R67_2, R67_3|0805_R|Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, 0805 100Ω (1000) 1%, 0805 100Ω (1000) 1%, 0805 100Ω (1000) 1%, Res2, Res2, Res2|15
+46|200K|Resistor|R36_1, R36_2, R36_3, R41_1, R41_2, R41_3|0805_R|Res2|6
+47|100|Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, 贴片电阻, 贴片电阻, 贴片电阻, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor|R37_1, R37_2, R37_3, R42_1, R42_2, R42_3, R49_1, R49_2, R49_3, R88, R89, R91, R94, R95, R99, R100|0805_R|Res2, Res2, Res2, Res2, Res2, Res2, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, 0805 100KΩ (1003) 1%, Res1, Res1, Res1, Res1, Res1, Res1, Res1|16
+48|5.1KΩ|贴片电阻|R48_1, R48_2, R48_3, R59_1, R59_2, R59_3|0805_R|0805 5.1KΩ (5101) 1%|6
+49|22K|贴片电阻|R51_1, R51_2, R51_3|R0805|RMK2012KBxxx（10～1M）F|3
+50|10KΩ|贴片电阻|R53_1, R53_2, R53_3, R60_1, R60_2, R60_3|0805_R|0805 10KΩ (1002) 1%|6
+51|33R|Resistor|R62_1, R62_2, R62_3|R2512|Res2|3
+52|0.33|Resistor|R63_1, R63_2, R63_3|R2512|Res2|3
+53|22K|贴片电阻|R66_1, R66_2, R66_3|0805_R|RMK2012KBxxx（10～1M）F|3
+54|510|Resistor|R68, R69|0805_R|Res1|2
+55|0.2|Resistor|R82, R83, R116, R117|R1210|Res1|4
+56|20K|Resistor|R104, R108|0805_R|Res1|2
+57|120|Resistor|R106|0805_R|Res1|1
+58|RPot|Potentiometer|R118, R119|RES-ADJ-TH_3362P|RPot|2
+59|1M|Resistor|R120, R121|0805_R|Res1|2
+60|0R|Resistor|R122, R123|0805_R|Res1|2
+61|ACM7060-701-2PL-TL01||T1|FILTER-SMD_4P-L7.0-W6.0-BL|ACM7060-701-2PL-TL01|1
+62|DP83848CVVX|接口芯片|U1|LQFP-48_7x7x05P|DP83848CVVX_[C16688]|1
+63|VRB2405YMD-6WR3||U2|DC/DC-1X1|48S5|1
+64|LD1117AG-33|3-Terminal Adjustable Positive Voltage Regulator|U3|SOT-223|LM1117|1
+65|HT7550-1|低压差线性稳压(LDO)|U4|SOT-89(SOT-89-3)|SOT-89 HT7550-1|1
+66|LM4040AIM3-2.5|Precision Micropower Shunt Voltage Reference, 3-pin SOT-23|U5|MF03A_N|LM4040AIM3-2.5|1
+67|FM25W256||U6|SO8|SPI_FLASH|1
+68|SG-310SCF 25MHZ 3.3V||U7|SMD-3225_4P|SM7745HEV-50.0M|1
+69|HCNR200-500E||U8_1, U8_2, U8_3, U11_1, U11_2, U11_3|SMD-8_9.0mm|HCNR201|6
+70|LM2904-SR|Dual Low-Power Operational Amplifier|U9_1, U9_2, U9_3, U10_1, U10_2, U10_3, U14_1, U14_2, U14_3|SOIC-8_150mil|LM2904D|9
+71|DRV8841PWPR||U12|HTSSOP-28_L9.8-W4.5-P0.65-LS6.6-BL-EP|DRV8841PWPR|1
+72|ADUM1200AR|Dual Channel Digital Isolator, 2.5 KV rms Insulation Rating, 1 Mbps Data Rate, 150 ns Delay, Industrial, 8-pin SOIC (R-8), Tube|U13_1, U13_2, U13_3, U20, U22, U24, U26|ADI-R-8_N|ADUM1200AR|7
+73|EL817S1(C)(TU)-F||U15_1, U15_2, U15_3, U16, U17, U27, U38|LC-SMD-4|TLP521|7
+74|DRV8825PWPR||U18|HTSSOP_24P_L10.0-W4.4-P0.65-BL-EP|DRV8825PWPR|1
+75|MAX232ESE|RS232|U28, U31, U34|SOIC-16_150mil|MAX232ESE_[C26860]|3
+76|B0505S-W2R2|MORNSUN Fixed input,Isolated,Unregulated Series DC/DC|U29, U32, U35|MORNSUN-BM|MORNSUN-BM|3
+77|ADUM1201ARZ-RL7|隔离器|U30, U33, U36|SOIC-8_150mil|ADUM1201ARZ-RL7_[C9669]|3
+78|SP485EEN-L/TR|RS-485/RS-422|U37|SOIC-8_150mil|SP485EEN-L/TR_[C6855]|1
+79|32.768KHz ±20ppm 12.5pF|贴片晶振|Y1|SMD-3215_2P FC - 135|SMD-3215_2P 32.768KHz 20ppm 12.5pF|1
